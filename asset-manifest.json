@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c170c787.css",
+    "main.js": "/static/js/main.9c22b780.js",
+    "static/js/787.a98cde9d.chunk.js": "/static/js/787.a98cde9d.chunk.js",
+    "static/media/fix.jpeg": "/static/media/fix.eac658ae4b5136fb87ef.jpeg",
+    "static/media/businesssolution.jpeg": "/static/media/businesssolution.577c145285d8ea09dc55.jpeg",
+    "static/media/online.jpeg": "/static/media/online.474eec90012242e3da63.jpeg",
+    "static/media/meeting.png": "/static/media/meeting.7d0af6b2a7516769cb9d.png",
+    "static/media/idea.svg": "/static/media/idea.c7a9375ab861384e27616814b64620dd.svg",
+    "static/media/IP-Junction.png": "/static/media/IP-Junction.36463378791b10f744a2.png",
+    "static/media/blueprint.svg": "/static/media/blueprint.72e0c936bfd0da6c0b1453baf5d3cc4a.svg",
+    "static/media/togetherness.svg": "/static/media/togetherness.a5248718235952950d28feda3e79589d.svg",
+    "static/media/resources.svg": "/static/media/resources.2174ad243f4223eb4fc58e79155fc2d2.svg",
+    "static/media/technical-advantage.svg": "/static/media/technical-advantage.f5379a1b008b1276e55820951c9d427b.svg",
+    "static/media/currency.svg": "/static/media/currency.4a46bc1847a681d9c15004bd6fbb420c.svg",
+    "static/media/email.svg": "/static/media/email.ce702cf8a6ae0ca552eab8ddc0bbd9ee.svg",
+    "static/media/resolution.svg": "/static/media/resolution.339738190525237c129d6df3f7d1ed87.svg",
+    "static/media/growing.svg": "/static/media/growing.4f0e23c7fd9b4a243d465bcaaf04d88c.svg",
+    "static/media/woman.svg": "/static/media/woman.b48f18b368f6709e6ffedfa948694798.svg",
+    "static/media/team.svg": "/static/media/team.8829179c5be3a7d7dc2d26899b4f59c4.svg",
+    "static/media/growth.svg": "/static/media/growth.646dda4968bf0069116c08f1b0c6d85a.svg",
+    "static/media/team-arrows.svg": "/static/media/team-arrows.8141e61e6e49072379f9c837227e1904.svg",
+    "static/media/team-settings.svg": "/static/media/team-settings.a0c134dc98b309d4c83b88fabf5f2ff7.svg",
+    "static/media/teamwork.svg": "/static/media/teamwork.46524cf11a1125a4c27bdb7b504c9f98.svg",
+    "static/media/global.svg": "/static/media/global.c1fc33e76f7cf4a6c958ea032358ee71.svg",
+    "index.html": "/index.html",
+    "main.c170c787.css.map": "/static/css/main.c170c787.css.map",
+    "main.9c22b780.js.map": "/static/js/main.9c22b780.js.map",
+    "787.a98cde9d.chunk.js.map": "/static/js/787.a98cde9d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c170c787.css",
+    "static/js/main.9c22b780.js"
+  ]
+}
